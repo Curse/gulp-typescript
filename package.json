@@ -54,7 +54,6 @@
     }
   ],
   "main": "release/main.js",
-  "typings": "release/main.d.ts",
   "dependencies": {
     "gulp-util": "~3.0.7",
     "source-map": "~0.5.3",
